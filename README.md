@@ -1,2 +1,2 @@
-# skullwhistle
-Data and code for skull whistle project
+# Aztec Skull Whistle
+Data and code for Aztec skull whistle project.
